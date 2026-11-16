@@ -26,3 +26,6 @@ Open and run any `.ipynb` notebook.
   opening, and closing on binary images.
 - [`knn/`](knn/): K-Nearest Neighbors image classification on CIFAR-10 with
   5-fold cross-validation.
+- [`linear-classification/`](linear-classification/): Linear classification on
+  CIFAR-10 exploring random weight initialization, class scores, multiclass SVM
+  hinge loss, Softmax probabilities, and weight template visualization.
